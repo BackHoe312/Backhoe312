@@ -1,3 +1,8 @@
+## My Works
+### [(주) 쿼드마이너](https://www.quadminers.com/ko/index.html) (2022.05 ~ 재직중)
+
+
+
 ## 💻 Tech Stack
 <div>
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
