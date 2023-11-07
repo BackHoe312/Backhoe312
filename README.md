@@ -1,5 +1,5 @@
 ## My Works
-### [(주) 쿼드마이너](https://www.quadminers.com/ko/index.html) (2022.05 ~ 2023.09.30)
+### [(주) 쿼드마이너](https://www.quadminers.com/ko/index.html) (2022.05 ~ 2023.09)
 
 
 
